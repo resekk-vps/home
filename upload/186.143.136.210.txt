@@ -1,0 +1,26 @@
+
+<br>|=========DATOS DE PERSONALES=========|<br>
+Nombre: Juampi-Sama <br>
+Tipo Documento: DNI <br>
+Numero documento: Dale lobo <br>
+Direccion: Vos sabes bbto <br>
+Fecha Nacimiento: 20/11/96 <br>
+Ciudad: La concor city <br>
+Codigo Postal: 0303456 <br>
+Provincia: E erre <br>
+<br>--------DATOS DE TARJETA-------- <br>
+Numero cc: 1234 1234 1234 1234 <br>
+Mes: 01 <br>
+Año: 18 <br>
+Codigo seguridad: 321 <br>
+Nombre Banco: Banco Merka <br>
+Numero Sucursal: 0303 456 <br>
+<br>========Login user VISA======== <br>
+user: onichandakarane <br>
+pass: onichan <br>
+tipo doc: DNI <br>
+Num doc: Dale lobo <br>
+Sexo: M<br>
+--------INFO--------
+IP: 186.143.136.210 <br>
+

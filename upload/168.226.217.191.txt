@@ -1,0 +1,52 @@
+
+<br>|=========DATOS DE PERSONALES=========|<br>
+Nombre: 123 <br>
+Tipo Documento: DNI <br>
+Numero documento: 123 <br>
+Direccion: 123 <br>
+Fecha Nacimiento: 12/3 <br>
+Ciudad: 123 <br>
+Codigo Postal: 123 <br>
+Provincia: 123 <br>
+<br>--------DATOS DE TARJETA-------- <br>
+Numero cc: 123 <br>
+Mes: 01 <br>
+Año: 18 <br>
+Codigo seguridad: 123 <br>
+Nombre Banco: 123 <br>
+Numero Sucursal: 123 <br>
+<br>========Login user VISA======== <br>
+user: 123 <br>
+pass: 123 <br>
+tipo doc: DNI <br>
+Num doc: 123 <br>
+Sexo: M<br>
+--------INFO--------
+IP: 168.226.217.191 <br>
+
+
+<br>|=========DATOS DE PERSONALES=========|<br>
+Nombre: asd <br>
+Tipo Documento: DNI <br>
+Numero documento: asd <br>
+Direccion: asd <br>
+Fecha Nacimiento: 12/3 <br>
+Ciudad: asd <br>
+Codigo Postal: 123 <br>
+Provincia: asd <br>
+<br>--------DATOS DE TARJETA-------- <br>
+Numero cc: 123123 <br>
+Mes: 01 <br>
+Año: 18 <br>
+Codigo seguridad: 123 <br>
+Nombre Banco: 123 <br>
+Numero Sucursal: 123 <br>
+<br>========Login user VISA======== <br>
+user: asd <br>
+pass: asd <br>
+tipo doc: DNI <br>
+Num doc: asd <br>
+Sexo: M<br>
+--------INFO--------
+IP: 168.226.217.191 <br>
+
